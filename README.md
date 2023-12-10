@@ -46,4 +46,3 @@ smart to run this server under a remote location if you want to stay anonymous. 
 likely fool the client/zombie.
 
 **Note**: This project was only made for education purposes and to test out my recently published repositories ([ahxrlogger](https://github.com/AHXR/ahxrlogger) & [ahxrsocket](https://github.com/AHXR/ahxrwinsocket)). If you choose to use this for malicious reasons, you are completely responsible for the outcome.
-
